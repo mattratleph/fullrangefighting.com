@@ -1,4 +1,19 @@
-#content p a:hover, #content section table tbody tr td a:hover
+header
+	{
+		border-bottom: 5px solid hsla(0,0%,90%,1);
+	}
+
+footer a:hover
+	{
+		border-bottom: 1px solid hsla(0,0%,0%,1);
+	}
+
+#f-wrapper
+	{
+		border-bottom: 5px solid hsla(0,0%,20%,1);
+	}
+
+#create article .right p a:hover
 	{
 		border-bottom: 1px solid hsla(0,0%,0%,1);
 	}
