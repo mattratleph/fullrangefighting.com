@@ -1,10 +1,10 @@
 cd www
 lcd Sites/fullrangefighting.com
-put *.html
+put *.*
 cd css
 lcd css
-put *.css
+put *.*
 cd ../images
 lcd ../images
-put *.png
+put *.*
 exit
