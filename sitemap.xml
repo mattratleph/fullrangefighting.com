@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<url>
+  <loc>http://fullrangefighting.com/</loc>
+  <lastmod>2012-07-23T20:05:44+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://fullrangefighting.com/training.html</loc>
+  <lastmod>2012-07-23T20:05:44+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://fullrangefighting.com/classes.html</loc>
+  <lastmod>2012-07-23T20:05:44+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://fullrangefighting.com/media.html</loc>
+  <lastmod>2012-07-23T20:05:44+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://fullrangefighting.com/contact.html</loc>
+  <lastmod>2012-07-23T20:05:44+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://fullrangefighting.com/index.html</loc>
+  <lastmod>2012-07-23T20:05:44+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
